@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homework Draft Writer"
+  short_description: "Turn assignment files into Markdown draft submissions"
+  default_prompt: "Use $homework-draft-writer to turn this assignment file into a structured Markdown draft in the same folder."
